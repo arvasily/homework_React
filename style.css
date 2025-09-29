@@ -71,7 +71,7 @@ body {
     margin-bottom: 45px;
 }
 
-.serch-box {
+.search-box {
     width: 100%;
     border-radius: 5px;
     background: rgba(37, 110, 235, 1);
@@ -81,7 +81,7 @@ body {
     justify-content: flex-start;
 }
 
-.serch-box input {
+.search-box input {
     flex-grow: 1;
     border-radius: 5px;
     outline: none;
